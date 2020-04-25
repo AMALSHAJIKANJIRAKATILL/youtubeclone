@@ -39,10 +39,10 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .searchicon{
-    width: 42px;;
+    width: 42px;
     height: 32px;
-    padding-left: 5px;
-    padding-top: 7px;
+    padding-left: 0px;
+    padding-top: 0px;
     border: 2px;
     float: left;
     background-color: white;
@@ -57,5 +57,8 @@
 .profilepic{
     border-radius: 140px;
 }
-
+.btnsearch{
+    width: 57px;
+    height: 31px; 
+}
 
