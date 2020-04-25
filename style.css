@@ -1,0 +1,61 @@
+.header{
+    width: 100%;
+    height: 57px;
+
+}
+.sidebaricon{
+    width: 18px;
+    height: 18px;
+    padding-left: 18px;
+    padding-top: 14px;
+    float: left;
+}
+.youtubelogo{
+    padding-top: 0px;
+    padding-left: 40px;
+    float: left;
+    width:45px;
+    height: 45px;
+    
+}
+.youtubetext{
+    width: auto;
+    height:auto ;
+    font-size: 26px;
+    padding-top: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+}
+.Searchbar{
+    padding-top: 7px;
+    padding-left: 411px;
+}
+.searchinput{
+    width:55%;
+    height: 25px;
+    float: left;
+    font-size: 18px;
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.searchicon{
+    width: 42px;;
+    height: 32px;
+    padding-left: 5px;
+    padding-top: 7px;
+    border: 2px;
+    float: left;
+    background-color: white;
+  
+
+}
+.profile{
+    padding-left: 328px;
+    padding-top: 3px;
+    float: left;
+}
+.profilepic{
+    border-radius: 140px;
+}
+
+
